@@ -1,0 +1,10 @@
+C:\Users\twinj\OneDrive\Desktop\Classes\Data Struc\Final\Final\Final\bin\Debug\Final.exe.config
+C:\Users\twinj\OneDrive\Desktop\Classes\Data Struc\Final\Final\Final\bin\Debug\Final.exe
+C:\Users\twinj\OneDrive\Desktop\Classes\Data Struc\Final\Final\Final\bin\Debug\Final.pdb
+C:\Users\twinj\OneDrive\Desktop\Classes\Data Struc\Final\Final\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\twinj\OneDrive\Desktop\Classes\Data Struc\Final\Final\Final\obj\Debug\Final.Form1.resources
+C:\Users\twinj\OneDrive\Desktop\Classes\Data Struc\Final\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\twinj\OneDrive\Desktop\Classes\Data Struc\Final\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\twinj\OneDrive\Desktop\Classes\Data Struc\Final\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\twinj\OneDrive\Desktop\Classes\Data Struc\Final\Final\Final\obj\Debug\Final.exe
+C:\Users\twinj\OneDrive\Desktop\Classes\Data Struc\Final\Final\Final\obj\Debug\Final.pdb
